@@ -1,6 +1,6 @@
 # CRUD API: Node Express MongoDB 
 
-> Code along project was done with CRUD API Tutorial – Node, Express, MongoDB.
+> Code along the project was done with CRUD API Tutorial – Node, Express, MongoDB.
 > [![Watch the video](/assets/CURD.jpeg)](https://www.youtube.com/watch?v=_7UQPve99r4&t=5s)
 
 
@@ -15,6 +15,6 @@
 # Install dependencies
 npm i express nodemon mongoose dotenv cors
 
-# Serve on localhost:5000
+# Serve on localhost:3000
 npm run dev
 ```
